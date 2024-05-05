@@ -1,0 +1,24 @@
+# Archivos de compilación
+bin/
+obj/
+
+# Archivos de usuario y configuración
+*.user
+*.suo
+*.sln.cache
+*.vs
+*.vscode
+
+# Archivos temporales
+[Tt]emp/
+[Tt]est[Rr]esults/
+
+# Archivos de respaldo y caché
+*~
+*.bak
+*.cache
+
+# Paquetes NuGet
+packages/
+*.nupkg
+*.dll
