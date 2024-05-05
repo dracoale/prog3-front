@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Home.master.cs" Inherits="SoftTienda.Home" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link rel="stylesheet" href="Styles/index.css" />
+    <link href="fontawesome-web/css/all.min.css" rel="stylesheet" />
+
+    <script src="Scripts/bootstrap.js"></script>
+    <script src="Scripts/bootstrap.bundle.js"></script>
+    <script src="Scripts/jquery-3.7.1.js"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com"
+        crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Signika+Negative:wght@300..700&family=Signika:wght@300..700&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div><asp:ContentPlaceHolder ID="TopBar" runat="server">
+            </asp:ContentPlaceHolder>
+
+    </div>
+            
+    <div> <asp:ContentPlaceHolder ID="Footer" runat="server">
+ </asp:ContentPlaceHolder></div>
+    
+
+</body>
+</html>

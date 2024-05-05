@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tienda_ta_p3\\front\\Model\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|d:\\tienda_ta_p3\\front\\model\\softtienda\\topbar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\topbar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|d:\\tienda_ta_p3\\front\\model\\softtienda\\home.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\home.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|d:\\tienda_ta_p3\\front\\model\\softtienda\\styles\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\styles\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.css",
+              "DocumentMoniker": "D:\\tienda_ta_p3\\front\\Model\\SoftTienda\\Styles\\index.css",
+              "RelativeDocumentMoniker": "SoftTienda\\Styles\\index.css",
+              "ToolTip": "D:\\tienda_ta_p3\\front\\Model\\SoftTienda\\Styles\\index.css",
+              "RelativeToolTip": "SoftTienda\\Styles\\index.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-04T20:52:54.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TopBar.aspx",
+              "DocumentMoniker": "D:\\tienda_ta_p3\\front\\Model\\SoftTienda\\TopBar.aspx",
+              "RelativeDocumentMoniker": "SoftTienda\\TopBar.aspx",
+              "ToolTip": "D:\\tienda_ta_p3\\front\\Model\\SoftTienda\\TopBar.aspx",
+              "RelativeToolTip": "SoftTienda\\TopBar.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-04T20:45:06.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.Master",
+              "DocumentMoniker": "D:\\tienda_ta_p3\\front\\Model\\SoftTienda\\Home.Master",
+              "RelativeDocumentMoniker": "SoftTienda\\Home.Master",
+              "ToolTip": "D:\\tienda_ta_p3\\front\\Model\\SoftTienda\\Home.Master",
+              "RelativeToolTip": "SoftTienda\\Home.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-04T20:44:22.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
