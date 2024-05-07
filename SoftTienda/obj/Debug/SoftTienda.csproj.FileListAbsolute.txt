@@ -1,0 +1,7 @@
+D:\tienda_ta_p3\front\Model\SoftTienda\bin\SoftTienda.dll.config
+D:\tienda_ta_p3\front\Model\SoftTienda\bin\SoftTienda.dll
+D:\tienda_ta_p3\front\Model\SoftTienda\bin\SoftTienda.pdb
+D:\tienda_ta_p3\front\Model\SoftTienda\obj\Debug\SoftTienda.csproj.AssemblyReference.cache
+D:\tienda_ta_p3\front\Model\SoftTienda\obj\Debug\SoftTienda.csproj.CoreCompileInputs.cache
+D:\tienda_ta_p3\front\Model\SoftTienda\obj\Debug\SoftTienda.dll
+D:\tienda_ta_p3\front\Model\SoftTienda\obj\Debug\SoftTienda.pdb
