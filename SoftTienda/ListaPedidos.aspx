@@ -160,7 +160,7 @@
                </tr>
            </tbody>
            <tfoot>
-               <tr>
+               <tr class="align-right">
                    <td colspan="4" class="text-right font-weight-bold">Monto Total:</td>
                    <td>S/124.00</td>
                    <td></td>
