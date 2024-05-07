@@ -77,7 +77,16 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
+    <Content Include="Images\cheetos.jpg" />
+    <Content Include="Images\enrolladojamon.jpg" />
+    <Content Include="Images\enrolladopollo.jpg" />
+    <Content Include="Images\gaseosa.jpg" />
+    <Content Include="Images\incakola.jpg" />
     <Content Include="Images\logo.svg" />
+    <Content Include="Images\papaslays.jpg" />
+    <Content Include="Images\tripack.jpg" />
+    <Content Include="LoginUsuario.aspx" />
+    <Content Include="RegistrarUsuario.aspx" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
@@ -102,7 +111,21 @@
     <Compile Include="Home.Master.designer.cs">
       <DependentUpon>Home.Master</DependentUpon>
     </Compile>
+    <Compile Include="LoginUsuario.aspx.cs">
+      <DependentUpon>LoginUsuario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LoginUsuario.aspx.designer.cs">
+      <DependentUpon>LoginUsuario.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegistrarUsuario.aspx.cs">
+      <DependentUpon>RegistrarUsuario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RegistrarUsuario.aspx.designer.cs">
+      <DependentUpon>RegistrarUsuario.aspx</DependentUpon>
+    </Compile>
     <Compile Include="TopBar.aspx.cs">
       <DependentUpon>TopBar.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
