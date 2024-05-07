@@ -22,18 +22,23 @@
 
             <div class="collapse navbar-collapse align-middle" id="navbarCollapse">
             <div class="navbar-nav ">
+
+       
+
                 <a href="#" class="nav-item nav-link "><button type="button" class="btn btn-light text">Home</button></a>
                 <a href="#" class="nav-item nav-link "><button type="button" class="btn btn-light text">Products</button></a>
-                <a href="#" class="nav-item nav-link "><button type="button" class="btn btn-light text">About us</button></a>
+                <a href="AboutUs.aspx" class="nav-item nav-link "><button type="button" class="btn btn-light text">About us</button></a>
 
             </div>
             <div class="navbar-nav ms-auto">
+                                          <a href="#" class="nav-item nav-link ">  <asp:Button  runat="server"  
+CssClass="btn btn-light text " OnClick="handle_login" Text ="Login"></asp:Button></a>  
                 
-                <a href="#" class="nav-item nav-link"><button type="button" class="btn btn-light text">Login</button></a>
             </div>
             <div class="navbar-nav ">
-                <a href="#" class="nav-item nav-link">
-                    <button type="button" class="btn btn-light text">Register</button></a>
+                                                          <a href="#" class="nav-item nav-link ">  <asp:Button  runat="server"  
+ CssClass  ="btn btn-light text " OnClick="handle_register" Text ="Register"></asp:Button></a>  
+               
             </div>
 
 

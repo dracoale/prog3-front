@@ -19,5 +19,15 @@ namespace SoftTienda
         {
             Response.Redirect("ListaPedidos.aspx");
         }
+
+        protected void handle_register(object sender, EventArgs e)
+        {
+            Response.Redirect("RegisterUsuario.aspx");
+        }
+
+        protected void handle_login(object sender, EventArgs e)
+        {
+            Response.Redirect("LoginUsuario.aspx");
+        }
     }
 }

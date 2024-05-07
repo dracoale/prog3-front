@@ -34,8 +34,13 @@
     <asp:ContentPlaceHolder ID="listaPedidos" runat="server">
             </asp:ContentPlaceHolder>
 
-    
-            
+      <asp:ContentPlaceHolder ID="registerUsuario" runat="server">
+          </asp:ContentPlaceHolder>
+      <asp:ContentPlaceHolder ID="loginUsuiario" runat="server">
+          </asp:ContentPlaceHolder>
+
+            <asp:ContentPlaceHolder ID="aboutUs" runat="server">
+          </asp:ContentPlaceHolder>
     <asp:ContentPlaceHolder ID="footer" runat="server">
         <footer class="footer bg-light fixed-bottom ">
   <div class="container">
