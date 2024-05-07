@@ -13,5 +13,13 @@ namespace SoftTienda
         {
 
         }
+<<<<<<< HEAD
+=======
+
+        protected void handle_home(object sender, EventArgs e)
+        {
+            Response.Redirect("Home.aspx");
+        }
+>>>>>>> main
     }
 }

@@ -1,9 +1,7 @@
-﻿body {
-    padding-top: 2px;
-}
+﻿
 nav {
     font-size: 18px;
-    background-color: rgba(210, 210, 210,0.1);
+    background-color: rgba(210, 210, 210,0.2);
 }
 .text {
     font-weight: 600;

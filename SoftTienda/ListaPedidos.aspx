@@ -1,8 +1,17 @@
+<<<<<<< HEAD
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Home.Master" AutoEventWireup="true" CodeBehind="ListaPedidos.aspx.cs" Inherits="SoftTienda.ListaPedidos" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="TopBar" runat="server">
     <nav class="navbar navbar-expand-lg navbar-dark bg-secondary border-bottom border-2">
+=======
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Index.Master" AutoEventWireup="true" CodeBehind="ListaPedidos.aspx.cs" Inherits="SoftTienda.ListaPedidos" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+    listaPedidos
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="topBar" runat="server">
+        <nav class="navbar navbar-expand-lg navbar-dark  border-bottom border-2">
+>>>>>>> main
        <div class="container-fluid me-4">
           <a href="#" class="navbar-brand">
               <img src="Images/logo1.png" height="100" alt="CoolBrand">
@@ -13,9 +22,16 @@
             </button>
             <div class="collapse navbar-collapse align-middle" id="navbarCollapse">
             <div class="navbar-nav ">
+<<<<<<< HEAD
                 <a href="#" class="nav-item nav-link text"><button type="button" class="btn btn-light text">Home</button></a>
                 <a href="#" class="nav-item nav-link text"><button type="button" class="btn btn-light text">Products</button></a>
                 <a href="#" class="nav-item nav-link text"><button type="button" class="btn btn-light text">About us</button></a>
+=======
+                <a href="#" class="nav-item nav-link ">  <asp:Button  runat="server"  
+      CssClass="btn btn-light text " OnClick="handle_home" Text ="Home"></asp:Button></a>
+                <a href="#" class="nav-item nav-link "><button type="button" class="btn btn-light text">Products</button></a>
+                <a href="#" class="nav-item nav-link "><button type="button" class="btn btn-light text">About us</button></a>
+>>>>>>> main
             </div>
        <div class="navbar-nav ms-auto">
             <div class="d-flex p-3">
@@ -23,7 +39,11 @@
                 <span>Cart</span>
             </div>
            <div class="d-flex p-3">
+<<<<<<< HEAD
                <span class="text-white mr-3">Juan Medina</span>
+=======
+               <span class="text-black mr-3">Juan Medina</span>
+>>>>>>> main
            </div>
            <div class="d-flex">
                <button class="btn btn-danger ml-auto">Logout</button>
@@ -33,8 +53,14 @@
        </div>
    </nav>
 </asp:Content>
+<<<<<<< HEAD
 <asp:Content ID="Content3" ContentPlaceHolderID="Footer" runat="server">
     <div class="d-flex px-5">
+=======
+
+<asp:Content ID="Content3" ContentPlaceHolderID="listaPedidos" runat="server">
+      <div class="d-flex px-5">
+>>>>>>> main
         <h1>Lista de Pedidos</h1>
     </div>
    <div class="container mt-4">
@@ -173,3 +199,10 @@
        </div>
    </div>
 </asp:Content>
+<<<<<<< HEAD
+=======
+<asp:Content ID="Content4" ContentPlaceHolderID="footer" runat="server">
+
+     
+</asp:Content>
+>>>>>>> main
