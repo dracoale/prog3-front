@@ -1,6 +1,0 @@
-C:\Users\PoolC\Desktop\RepoProg3\prog3-front\Model\bin\Debug\Model.dll
-C:\Users\PoolC\Desktop\RepoProg3\prog3-front\Model\bin\Debug\Model.pdb
-C:\Users\PoolC\Desktop\RepoProg3\prog3-front\Model\obj\Debug\Model.csproj.AssemblyReference.cache
-C:\Users\PoolC\Desktop\RepoProg3\prog3-front\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
-C:\Users\PoolC\Desktop\RepoProg3\prog3-front\Model\obj\Debug\Model.dll
-C:\Users\PoolC\Desktop\RepoProg3\prog3-front\Model\obj\Debug\Model.pdb
