@@ -94,7 +94,7 @@
                                  </div>
                             </div>
                             <div class="d-grid">
-                                <button class="btn btn-primary" type="submit">Registrar</button>
+                                <asp:Button  runat="server" CssClass="btn btn-primary" OnClick="handle_login" Text ="Registrar"></asp:Button>
                             </div>
                         </div>
                     </div>

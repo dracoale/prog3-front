@@ -13,5 +13,10 @@ namespace SoftTienda
         {
 
         }
+
+        protected void handle_login(object sender, EventArgs e)
+        {
+            Response.Redirect("Homepage.aspx");
+        }
     }
 }

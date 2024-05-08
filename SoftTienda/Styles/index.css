@@ -20,4 +20,41 @@ span{
     font-size:30px;
 }
 
+.cardImages {
+    height: 200px;
+    max-width: 200px;
+}
 
+.cardFilter {
+    height: 120px;
+    display: flex;
+}
+
+.buttonFilter {
+    max-width: 100%;
+}
+
+
+
+td{
+    align-content: center;
+}
+
+body {
+    background-color: #eeeeee;
+}
+
+.tabla {
+    background-color: #eeeeee;
+    color: #eeeeee;
+    accent-color: #eeeeee;
+
+}
+
+.cardProd {
+    transition: transform 0.3s ease; /* Añade una transición suave */
+}
+
+.cardProd:hover {
+    transform: scale(1.05); /* Ajusta el valor para el nivel de zoom deseado */
+}

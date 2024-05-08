@@ -18,7 +18,7 @@
     </div>
   </header>
   
-  <main class="container py-4">
+  <main class="container py-5 mt-5 mb-5">
     <div class="row">
       <div class="col-md-6 offset-md-3">
         <div class="text-center mb-4">

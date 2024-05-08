@@ -2,45 +2,13 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     listaPedidos
 </asp:Content>
-<asp:Content ID="Content2" ContentPlaceHolderID="topBar" runat="server">
-        <nav class="navbar navbar-expand-lg navbar-dark  border-bottom border-2">
-       <div class="container-fluid me-4">
-          <a href="#" class="navbar-brand">
-              <img src="Images/logo1.png" height="100" alt="CoolBrand">
-          </a>
-            <i class="fa-solid fa-cart-plus navbar-toggler border-0 icon"  data-bs-target="#navbarCollapse"></i>
-            <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
-                <i class="fa-solid fa-bars icon"></i>
-            </button>
-            <div class="collapse navbar-collapse align-middle" id="navbarCollapse">
-            <div class="navbar-nav ">
-                <a href="#" class="nav-item nav-link ">  <asp:Button  runat="server"  
-      CssClass="btn btn-light text " OnClick="handle_home" Text ="Home"></asp:Button></a>
-                <a href="#" class="nav-item nav-link "><button type="button" class="btn btn-light text">Products</button></a>
-                <a href="#" class="nav-item nav-link "><button type="button" class="btn btn-light text">About us</button></a>
-            </div>
-       <div class="navbar-nav ms-auto">
-            <div class="d-flex p-3">
-                <i class="fas fa-shopping-cart mr-2"></i>
-                <span>Cart</span>
-            </div>
-           <div class="d-flex p-3">
-               <span class="text-black mr-3">Juan Medina</span>
-           </div>
-           <div class="d-flex">
-               <button class="btn btn-danger ml-auto">Logout</button>
-           </div>
-           </div>
-                </div>
-       </div>
-   </nav>
-</asp:Content>
+
 
 <asp:Content ID="Content3" ContentPlaceHolderID="listaPedidos" runat="server">
-      <div class="d-flex px-5">
-        <h1>Lista de Pedidos</h1>
+      <div class="d-flex px-5 justify-content-center align-content-center">
+        <h1>Carrito de compras</h1>
     </div>
-   <div class="container mt-4">
+   <div class="container mt-4 rounded bg-white p-2">
        <table class="table cart-table">
            <thead class="thead-light align-middle">
                <tr >
@@ -55,8 +23,8 @@
            <tbody>
                <tr>
                    <td><img src="Images\incakola.jpg" class="img-fluid" width="50"></td>
-                   <td>Pack de 2 Botellas 3L Inca Kola</td>
-                   <td>S/20.00</td>
+                   <td class="">Pack de 2 Botellas 3L Inca Kola</td>
+                   <td class="">S/20.00</td>
                    <td>
                        <div class="input-group">
                            <div class="input-group-prepend">
@@ -69,7 +37,7 @@
                        </div>
                    </td>
                    <td>S/20.00</td>
-                   <td><button class="btn btn-danger">Remove</button></td>
+                   <td><button class="btn btn-danger">Remover</button></td>
                </tr>
                <tr>
                    <td><img src="Images\papaslays.jpg" class="img-fluid" width="50"></td>
@@ -175,8 +143,4 @@
            <button class="btn btn-success">Checkout</button>
        </div>
    </div>
-</asp:Content>
-<asp:Content ID="Content4" ContentPlaceHolderID="footer" runat="server">
-
-     
 </asp:Content>
