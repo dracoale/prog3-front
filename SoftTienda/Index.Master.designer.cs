@@ -60,6 +60,15 @@ namespace SoftTienda
         protected global::System.Web.UI.WebControls.ContentPlaceHolder loginUsuiario;
 
         /// <summary>
+        /// Control listaProductos.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.ContentPlaceHolder listaProductos;
+
+        /// <summary>
         /// Control aboutUs.
         /// </summary>
         /// <remarks>
@@ -67,6 +76,15 @@ namespace SoftTienda
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.ContentPlaceHolder aboutUs;
+
+        /// <summary>
+        /// Control AgregarProductos.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.ContentPlaceHolder AgregarProductos;
 
         /// <summary>
         /// Control footer.

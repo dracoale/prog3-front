@@ -30,7 +30,7 @@
     <form runat="server">
     <asp:ContentPlaceHolder ID="topBar" runat="server">
             </asp:ContentPlaceHolder>  
-         </form>
+    
     <asp:ContentPlaceHolder ID="listaPedidos" runat="server">
             </asp:ContentPlaceHolder>
 
@@ -38,11 +38,46 @@
           </asp:ContentPlaceHolder>
       <asp:ContentPlaceHolder ID="loginUsuiario" runat="server">
           </asp:ContentPlaceHolder>
+<<<<<<< HEAD
 
+      <asp:ContentPlaceHolder ID="aboutUs" runat="server">
+      </asp:ContentPlaceHolder>
+
+     <asp:ContentPlaceHolder ID="AgregarProductos" runat="server">
+      </asp:ContentPlaceHolder>
+     </form>
+
+      <asp:ContentPlaceHolder ID="footer" runat="server">
+      <footer class="footer bg-light fixed-bottom ">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6">
+            <h5>Información de Contacto</h5>
+            <p>Dirección: 123 Calle Principal, Ciudad</p>
+            <p>Teléfono: 123-456-7890</p>
+            <p>Email: ejemplo@correo.com</p>
+          </div>
+          <div class="col-lg-6">
+            <h5>Enlaces Útiles</h5>
+            <ul class="list-unstyled">
+              <li><a href="#">Inicio</a></li>
+              <li><a href="#">Acerca de Nosotros</a></li>
+              <li><a href="#">Servicios</a></li>
+              <li><a href="#">Contacto</a></li>
+            </ul>
+          </div>
+        </div>
+        <hr>
+        <div class="text-center">
+          <p>&copy; 2024 Mi Empresa</p>
+        </div>
+=======
+    <asp:ContentPlaceHolder ID="listaProductos" runat="server">
+    </asp:ContentPlaceHolder>
             <asp:ContentPlaceHolder ID="aboutUs" runat="server">
           </asp:ContentPlaceHolder>
     <asp:ContentPlaceHolder ID="footer" runat="server">
-        <footer class="footer bg-light fixed-bottom ">
+        <footer class="footer bg-light  ">
   <div class="container">
     <div class="row">
       <div class="col-lg-6">
@@ -50,24 +85,10 @@
         <p>Dirección: 123 Calle Principal, Ciudad</p>
         <p>Teléfono: 123-456-7890</p>
         <p>Email: ejemplo@correo.com</p>
+>>>>>>> 6597e2067c561dd778cdd279657ef153f975f833
       </div>
-      <div class="col-lg-6">
-        <h5>Enlaces Útiles</h5>
-        <ul class="list-unstyled">
-          <li><a href="#">Inicio</a></li>
-          <li><a href="#">Acerca de Nosotros</a></li>
-          <li><a href="#">Servicios</a></li>
-          <li><a href="#">Contacto</a></li>
-        </ul>
-      </div>
-    </div>
-    <hr>
-    <div class="text-center">
-      <p>&copy; 2024 Mi Empresa</p>
-    </div>
-  </div>
-</footer>
- </asp:ContentPlaceHolder>
+    </footer>
+     </asp:ContentPlaceHolder>
     
 
 </body>
