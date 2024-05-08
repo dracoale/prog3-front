@@ -52,7 +52,7 @@
                                 </div>
                             </div>
                             <div class="d-grid">
-                                <button class="btn btn-primary" type="submit">Iniciar Sesión</button>
+                                <asp:Button  runat="server" CssClass="btn btn-primary " OnClick="handle_login" Text ="Iniciar Sesion"></asp:Button>
                             </div>
                         </div>
                     </div>
