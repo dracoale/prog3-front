@@ -1,8 +1,9 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Index.Master" AutoEventWireup="true" CodeBehind="Home.aspx.cs" Inherits="SoftTienda.TopBar" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Index.Master" AutoEventWireup="true" CodeBehind="AgregarProductos.aspx.cs" Inherits="SoftTienda.AgregarProductos" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-    home
+    AgregarProductos
 </asp:Content>
-<asp:Content ID="Content2" ContentPlaceHolderID="topBar" runat="server">
+
+<asp:Content ID="Content3" ContentPlaceHolderID="topBar" runat="server">
   
     <nav class="navbar navbar-expand-md border-bottom border-2 ">
         <div class="container-fluid me-4">
@@ -65,3 +66,21 @@ CssClass="btn btn-light text " OnClick="handle_login" Text ="Login"></asp:Button
   
 </asp:Content>
 
+
+
+<asp:Content ID="Content2" ContentPlaceHolderID="AgregarProductos" runat="server">
+
+        <div class="container">
+            <h1>Subir Imágenes</h1>
+            <div class="form-group">
+                <label for="fileUpload">Seleccionar imagen:</label>
+                <div class="custom-file">
+                    <input type="file" class="custom-file-input" id="fileUpload" name="fileUpload" accept="image/*">
+                    <label class="custom-file-label" for="fileUpload">Elegir archivo</label>
+                </div>
+                <small id="fileHelp" class="form-text text-muted">Selecciona un archivo de imagen (JPEG, PNG, GIF, etc.).</small>
+            </div>
+            <button type="submit" class="btn btn-primary">Subir</button>
+        </div>
+
+</asp:Content>
