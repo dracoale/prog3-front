@@ -231,76 +231,68 @@
             </div>
         </div>
 
-        <!--FILTROS-->
-        <div class="col-sm-7  g-5">
+       <!--FILTROS-->
+    <div class="col-sm-7  g-5">
         <div class="row">
-        <div class="col-sm-3">
-            <div class="card cardFilter bg-dark text-warning">
-                <div class="card-body d-flex flex-column align-content-center justify-content-center">
-                    <h5 class="card-title">Tipo de Producto</h5>
-                    <div class="dropdown">
-                        <button class="btn btn-light fw-bold btn-info dropdown-toggle buttonFilter" type="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
-                            Categorías</button>
-                        <ul class="dropdown-menu bg-primary-subtle">
-                            <li><a class="dropdown-item ">Bebidas</a></li>
-                            <li><a class="dropdown-item ">Snacks</a></li>
-                        </ul>
+            <div class="col-sm-3">
+                <div class="card cardFilter bg-dark text-warning">
+                    <div class="card-body d-flex flex-column align-content-center justify-content-center">
+                        <h5 class="card-title">Tipo de Producto</h5>
+                        <asp:DropDownList ID="ddlTiposDeProducto" CssClass="dropdown bg-white" runat="server"></asp:DropDownList>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="card cardFilter bg-dark text-warning">
+                    <div class="card-body d-flex flex-column align-content-center justify-content-center btn-dark">
+                        <h5 class="card-title">Precios</h5>
+                        <div class="dropdown">
+                            <button class="btn btn-light fw-bold btn-info dropdown-toggle buttonFilter" type="button"
+                                data-bs-toggle="dropdown" aria-expanded="false">
+                                Rangos</button>
+                            <ul class="dropdown-menu bg-primary-subtle">
+                                <li><a href="#" class="dropdown-item ">S/. 0 - S/.10</a></li>
+                                <li><a href="#" class="dropdown-item ">S/.10 - S/....</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="card cardFilter bg-dark text-warning">
+                    <div class="card-body d-flex flex-column align-content-center justify-content-center btn-dark">
+                        <h5 class="card-title">Disponibilidad</h5>
+                        <div class="dropdown">
+                            <button class="btn btn-light fw-bold btn-info dropdown-toggle buttonFilter" type="button"
+                                data-bs-toggle="dropdown" aria-expanded="false">
+                                Categorías</button>
+                            <ul class="dropdown-menu bg-primary-subtle">
+                                <li><a href="#" class="dropdown-item ">Disponible</a></li>
+                                <li><a href="#" class="dropdown-item ">Todos</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="card cardFilter bg-dark text-warning">
+                    <div class="card-body d-flex flex-column align-content-center justify-content-center btn-dark">
+                        <h5 class="card-title">Oferta</h5>
+                        <div class="dropdown">
+                            <button class="btn btn-light fw-bold btn-info dropdown-toggle buttonFilter" type="button"
+                                data-bs-toggle="dropdown" aria-expanded="false">
+                                Categorías</button>
+                            <ul class="dropdown-menu bg-primary-subtle">
+                                <li><a href="#" class="dropdown-item ">SuperOfertas</a></li>
+                                <li><a href="#" class="dropdown-item ">Ofertas</a></li>
+                                <li><a href="#" class="dropdown-item ">Sin Oferta</a></li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="col-sm-3">
-            <div class="card cardFilter bg-dark text-warning">
-                <div class="card-body d-flex flex-column align-content-center justify-content-center btn-dark">
-                    <h5 class="card-title">Precios</h5>
-                    <div class="dropdown">
-                        <button class="btn btn-light fw-bold btn-info dropdown-toggle buttonFilter" type="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
-                            Rangos</button>
-                        <ul class="dropdown-menu bg-primary-subtle">
-                            <li><a class="dropdown-item ">S/. 0 - S/.10</a></li>
-                            <li><a class="dropdown-item ">S/.10 - S/....</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-3">
-            <div class="card cardFilter bg-dark text-warning">
-                <div class="card-body d-flex flex-column align-content-center justify-content-center btn-dark">
-                    <h5 class="card-title">Disponibilidad</h5>
-                    <div class="dropdown">
-                        <button class="btn btn-light fw-bold btn-info dropdown-toggle buttonFilter" type="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
-                            Categorías</button>
-                        <ul class="dropdown-menu bg-primary-subtle">
-                            <li><a class="dropdown-item ">Disponible</a></li>
-                            <li><a class="dropdown-item ">Todos</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-3">
-            <div class="card cardFilter bg-dark text-warning">
-                <div class="card-body d-flex flex-column align-content-center justify-content-center btn-dark">
-                    <h5 class="card-title">Oferta</h5>
-                    <div class="dropdown">
-                        <button class="btn btn-light fw-bold btn-info dropdown-toggle buttonFilter" type="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
-                            Categorías</button>
-                        <ul class="dropdown-menu bg-primary-subtle">
-                            <li><a class="dropdown-item ">SuperOfertas</a></li>
-                            <li><a class="dropdown-item ">Ofertas</a></li>
-                            <li><a class="dropdown-item ">Sin Oferta</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </div>
-        </div>
+    </div>
 
     </div>
     </center>
@@ -308,6 +300,18 @@
     <!--PRODUCTOS-->
     <center>
         <div class="grid-container mt-4 p-4 rounded bg-white table-responsive">
+            <!--Producto 0-->
+            <asp:DataGrid ID="dgProductos" runat="server" AllowPaging="true" PageSize="5" AutoGenerateColumns="false"
+                CssClass="tabla card cardProd">
+                <Columns>
+                    <asp:BoundColumn DataField="NombreProducto"></asp:BoundColumn>
+                    <asp:BoundColumn DataField="TipoProductoEspecifico"></asp:BoundColumn>
+                    <asp:BoundColumn DataField="ImagenProducto"></asp:BoundColumn>
+                    <asp:BoundColumn DataField="PrecioProducto"></asp:BoundColumn>
+                    <asp:BoundColumn DataField="EstadoProducto"></asp:BoundColumn>
+                </Columns>
+            
+            </asp:DataGrid>
             <!--Producto1-->
             <div class="tabla">
                 <div class="card cardProd" style="width: 18rem;">
