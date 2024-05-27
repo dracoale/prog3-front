@@ -1,0 +1,144 @@
+﻿
+nav {
+    font-size: 18px;
+    background-color: rgba(210, 210, 210,0.2);
+}
+
+span{
+    font-size: 15px;
+}
+a {
+    color:black;
+}
+.text {
+    font-weight: 600;
+    font-family: "Work Sans", sans-serif;
+}
+
+.bg-color {
+    background-color: rgba(224, 110, 24, 0.20);
+}
+
+.buton-color {
+    background-color: #f60;
+    color: #fff;
+    border-radius: 100px;
+   
+    border-width: 2px;
+}
+    .buton-color:hover {
+        background-color: transparent;
+        color: #000;
+        border-color: #f60;
+        border-width: 2px;
+    }
+
+.mynav li a {
+    
+    text-decoration: none;
+    width: 100%;
+    display: block;
+    border-radius: 5px;
+    padding: 8px 5px;
+}
+
+
+    .mynav li a:hover {
+        background: rgba(255, 255, 255, 0.4);
+    }
+
+
+.linea {
+    background-color: rgba(128, 128, 128,0.2);
+    height:20px;
+    text-align:center;
+}
+.icon {
+    font-size:30px;
+}
+
+.cardImages {
+    height: 200px;
+    max-width: 200px;
+}
+
+.cardFilter {
+    height: 120px;
+    display: flex;
+}
+
+.buttonFilter {
+    max-width: 100%;
+}
+
+
+
+td{
+    align-content: center;
+}
+
+body {
+    /*background-color: #eeeeee;*/
+}
+
+.tabla {
+    background-color: #eeeeee;
+    color: #eeeeee;
+    accent-color: #eeeeee;
+
+}
+
+.cardProd {
+    transition: transform 0.3s ease; /* Añade una transición suave */
+}
+
+.cardProd:hover {
+    transform: scale(1.05); /* Ajusta el valor para el nivel de zoom deseado */
+}
+
+/*CONTADOR*/
+
+#countdown {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 55px;
+    text-align: center;
+    margin-top: 20px;
+    color: #efb810
+}
+
+.countdown-item {
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 45px;
+    border-radius: 10px;
+    padding: 5px;
+    color: #efb810;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2)
+}
+
+.countdown-item-label {
+    font-size: 10px;
+    margin-top: 5px;
+    color: #efb810
+}
+
+.countdown-item-days .countdown-item-label {
+    display: block
+}
+
+/*LISTA PRODUCTOS*/
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* Crea 3 columnas de igual tamaño */
+    grid-template-rows: repeat(3); /* Crea 3 filas de altura  */
+    gap: 10px; /* Espacio entre las celdas */
+}
+
+.item {
+    background-color: #3498db;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}

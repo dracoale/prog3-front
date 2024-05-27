@@ -1,0 +1,497 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Index.Master.cs" Inherits="SoftTienda.Home" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link rel="stylesheet" href="Styles/index.css" />
+    <link href="fontawesome-web/css/all.min.css" rel="stylesheet" />
+
+    <script src="Scripts/bootstrap.js"></script>
+    <script src="Scripts/bootstrap.bundle.js"></script>
+    <script src="Scripts/jquery-3.7.1.js"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com"
+        crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Signika+Negative:wght@300..700&family=Signika:wght@300..700&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+    <title><asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder></title>
+    
+</head>
+<body class="">
+    <form runat="server">
+    <asp:ContentPlaceHolder ID="topBar" runat="server">
+        <nav class="navbar navbar-expand-lg navbar-dark  border-bottom border-2">
+       <div class="container-fluid me-4">
+          <a href="#" class="navbar-brand">
+              <img src="Images/logo1.png" height="100" alt="CoolBrand">
+          </a>
+            <i class="fa-solid fa-cart-plus navbar-toggler border-0 icon"  data-bs-target="#navbarCollapse"></i>
+            <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+                <i class="fa-solid fa-bars icon"></i>
+            </button>
+            <div class="collapse navbar-collapse align-middle" id="navbarCollapse">
+            <div class="navbar-nav ">
+                <a href="#" class="nav-item nav-link ">  <asp:Button  runat="server"  
+      CssClass="btn btn-light text " OnClick="handle_home" Text ="Home"></asp:Button></a>
+
+                 <a href="#" class="nav-item nav-link "> <asp:Button  runat="server"  CssClass="btn btn-light text" OnClick="handle_Products" Text ="Productos"></asp:Button></a>
+
+                
+            <a href="AboutUs.aspx" class="nav-item nav-link ">  <asp:Button  runat="server"  
+                  CssClass="btn btn-light text " OnClick="handle_AboutUs" Text ="About Us"></asp:Button></a>
+            </div>
+       <div class="navbar-nav ms-auto align-items-center p-4">
+
+           <div class="position-relative d-none d-md-block d-print-block p-1">
+           <asp:LinkButton runat="server" 
+                CssClass="btn btn-light" OnClick="handle_listaProductos">
+                <i class="fa-solid fa-cart-plus icon"></i>
+                <span class="position-absolute fs-20 top-0 start-100 translate-middle badge rounded-pill bg-danger ">9+
+                </span>
+            </asp:LinkButton>
+            </div>
+
+           <div class="d-flex p-3">
+               <span class="text-black mr-3">Juan Medina</span>
+           </div>
+           <div class="d-flex">
+               <asp:Button  runat="server"  
+                  CssClass="btn btn-danger text " OnClick="handle_Logout" Text ="Log out"></asp:Button>
+           </div>        
+           <div class="d-flex p-3">
+               <asp:LinkButton  runat="server"  
+                  CssClass="btn btn-light " OnClick="handle_setting" Text ="Log out"><i class="fa-solid fa-gears"></i></asp:LinkButton>
+           </div>
+
+
+           </div>
+                </div>
+       </div>
+   </nav>
+  
+    </asp:ContentPlaceHolder>  
+
+    <asp:ContentPlaceHolder ID="listaPedidos" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <asp:ContentPlaceHolder ID="registerUsuario" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <asp:ContentPlaceHolder ID="loginUsuiario" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <asp:ContentPlaceHolder ID="listaProductos" runat="server">
+            <div class="d-flex px-5 justify-content-center align-content-center">
+        <h1>Bienvenido</h1>
+    </div>
+    <!--CONTADOR-->
+    <hr />
+    <center>
+        <div class="row justify-content-center g-5">
+            <center>
+                <div class="card col-sm-3 bg-dark text-warning w-100">
+                    <h1 class="bg-color">¡¡SOLO QUEDAN 100 AÑOS!!</h1>
+
+                    <div id="carruselComienzo" class="carousel slide" data-bs-ride="carousel">
+                        <div class="carousel-inner">
+                            <!--Primer carrusel-->
+
+                            <div class="carousel-item active justify-content-center">
+
+                                <div class="row justify-content-center align-content-center">
+                                    <div class="card cardProd bg-warning align-middle" style="width: 38rem;">
+                                        <div class="row row-cols-2">
+                                            <div>
+                                                <br />
+                                                <img src="Images\incakola.jpg" class="cardImages" />
+                                            </div>
+                                            <div>
+                                                <br />
+                                                <h2 class="card-title text-danger">Pack de 2 Botellas 3L Inca Kola</h2>
+                                                <h5 class="card-subtitle text-light-emphasis">Bebidas</h5>
+                                                <p class="card-text">Precio: S/.10.00</p>
+                                                <p class="card-text">Estado: Disponible</p>
+                                                <p class="card-text">Válido hasta la fecha límite</p>
+                                                <br />
+                                                <br />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!--Segundo carrusel-->
+                            <div class="carousel-item active justify-content-center">
+
+                                <div class="row justify-content-center align-content-center">
+                                    <div class="card cardProd bg-warning align-middle" style="width: 38rem;">
+                                        <div class="row row-cols-2">
+                                            <div>
+                                                <br />
+                                                <img src="Images\incakola.jpg" class="cardImages" />
+                                            </div>
+                                            <div>
+                                                <br />
+                                                <h2 class="card-title text-danger">Pack de 2 Botellas 3L Inca Kola</h2>
+                                                <h5 class="card-subtitle text-light-emphasis">Bebidas</h5>
+                                                <p class="card-text">Precio: S/.10.00</p>
+                                                <p class="card-text">Estado: Disponible</p>
+                                                <p class="card-text">Válido hasta la fecha límite</p>
+                                                <br />
+                                                <br />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--Tercero carrusel-->
+                            <div class="carousel-item active justify-content-center">
+
+                                <div class="row justify-content-center align-content-center">
+                                    <div class="card cardProd bg-warning align-middle" style="width: 38rem;">
+                                        <div class="row row-cols-2">
+                                            <div>
+                                                <br /><br />
+                                                <img src="Images\incakola.jpg" class="cardImages" />
+                                            </div>
+                                            <div>
+                                                <br /><br />
+                                                <h2 class="card-title text-danger">Pack de 2 Botellas 3L Inca Kola</h2>
+                                                <h5 class="card-subtitle text-light-emphasis">Bebidas</h5>
+                                                <p class="card-text">Precio: S/.10.00</p>
+                                                <p class="card-text">Estado: Disponible</p>
+                                                <p class="card-text">Válido hasta la fecha límite</p>
+                                                <br /><br />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <button class="carousel-control-prev" type="button" data-bs-target="#carruselComienzo" data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Previous</span>
+                        </button>
+                        <button class="carousel-control-next" type="button" data-bs-target="#carruselComienzo" data-bs-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Next</span>
+                        </button>
+                    </div>
+                    <div id="countdown">
+                        <div class="countdown-item countdown-item-days">
+                            <div class="countdown-number">
+                            </div>
+                            <div class="countdown-item-label">Días</div>
+
+                        </div>
+                        <div class="countdown-item countdown-item-hours">
+                            <div class="countdown-number"></div>
+                            <div class="countdown-item-label">Horas</div>
+
+                        </div>
+                        <div class="countdown-item countdown-item-minutes">
+                            <div class="countdown-number"></div>
+                            <div class="countdown-item-label">Minutos</div>
+                        </div>
+                        <div class="countdown-item countdown-item-seconds">
+                            <div class="countdown-number"></div>
+                            <div class="countdown-item-label">Segundos</div>
+
+                        </div>
+                    </div>
+                    <script type="text/javascript" src="//acortar.org/gen-js">
+
+                    </script>
+                    <script>const targetDate = new Date('January 1, 2124 00:00:00').getTime(); setInterval(() => { const now = new Date().getTime(); const difference = targetDate - now; const days = Math.floor(difference / (1000 * 60 * 60 * 24)); const hours = Math.floor((difference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)); const minutes = Math.floor((difference % (1000 * 60 * 60)) / (1000 * 60)); const seconds = Math.floor((difference % (1000 * 60)) / 1000); document.querySelector('.countdown-item-days .countdown-number').textContent = days; document.querySelector('.countdown-item-hours .countdown-number').textContent = hours; document.querySelector('.countdown-item-minutes .countdown-number').textContent = minutes; document.querySelector('.countdown-item-seconds .countdown-number').textContent = seconds }, 1000);</script>
+                </div>
+    </center>
+    <hr />
+    <!--PARTE SUPERIOR-->
+    <center><div class="row justify-content-center g-5">
+        <!--BUSCADOR-->
+        <div class="card col-sm-3 bg-dark text-warning" >
+            <div class="card-body">
+                <i class="fa-solid fa-magnifying-glass"> Buscar Producto</i>
+                <div class="mb-1">
+                    <asp:Label ID="lblProductoBuscar" runat="server"></asp:Label>
+                    <div>
+                        <input type="text" class="form-control" id="...">
+                    </div>
+                </div>
+                <asp:Button  runat="server"  CssClass="btn btn-warning" OnClick="buscarProductoNombre" Text ="Buscar"></asp:Button>
+            </div>
+        </div>
+
+        <!--FILTROS-->
+        <div class="col-sm-7  g-5">
+        <div class="row">
+        <div class="col-sm-3">
+            <div class="card cardFilter bg-dark text-warning">
+                <div class="card-body d-flex flex-column align-content-center justify-content-center">
+                    <h5 class="card-title">Tipo de Producto</h5>
+                    <div class="dropdown">
+                        <button class="btn btn-light fw-bold btn-info dropdown-toggle buttonFilter" type="button"
+                            data-bs-toggle="dropdown" aria-expanded="false">
+                            Categorías</button>
+                        <ul class="dropdown-menu bg-primary-subtle">
+                            <li><a class="dropdown-item ">Bebidas</a></li>
+                            <li><a class="dropdown-item ">Snacks</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-3">
+            <div class="card cardFilter bg-dark text-warning">
+                <div class="card-body d-flex flex-column align-content-center justify-content-center btn-dark">
+                    <h5 class="card-title">Precios</h5>
+                    <div class="dropdown">
+                        <button class="btn btn-light fw-bold btn-info dropdown-toggle buttonFilter" type="button"
+                            data-bs-toggle="dropdown" aria-expanded="false">
+                            Rangos</button>
+                        <ul class="dropdown-menu bg-primary-subtle">
+                            <li><a class="dropdown-item ">S/. 0 - S/.10</a></li>
+                            <li><a class="dropdown-item ">S/.10 - S/....</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-3">
+            <div class="card cardFilter bg-dark text-warning">
+                <div class="card-body d-flex flex-column align-content-center justify-content-center btn-dark">
+                    <h5 class="card-title">Disponibilidad</h5>
+                    <div class="dropdown">
+                        <button class="btn btn-light fw-bold btn-info dropdown-toggle buttonFilter" type="button"
+                            data-bs-toggle="dropdown" aria-expanded="false">
+                            Categorías</button>
+                        <ul class="dropdown-menu bg-primary-subtle">
+                            <li><a class="dropdown-item ">Disponible</a></li>
+                            <li><a class="dropdown-item ">Todos</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-3">
+            <div class="card cardFilter bg-dark text-warning">
+                <div class="card-body d-flex flex-column align-content-center justify-content-center btn-dark">
+                    <h5 class="card-title">Oferta</h5>
+                    <div class="dropdown">
+                        <button class="btn btn-light fw-bold btn-info dropdown-toggle buttonFilter" type="button"
+                            data-bs-toggle="dropdown" aria-expanded="false">
+                            Categorías</button>
+                        <ul class="dropdown-menu bg-primary-subtle">
+                            <li><a class="dropdown-item ">SuperOfertas</a></li>
+                            <li><a class="dropdown-item ">Ofertas</a></li>
+                            <li><a class="dropdown-item ">Sin Oferta</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+        </div>
+
+    </div>
+    </center>
+    <hr />
+    <!--PRODUCTOS-->
+    <center>
+        <div class="grid-container mt-4 p-4 rounded bg-white table-responsive">
+            <!--Producto1-->
+            <div class="tabla">
+                <div class="card cardProd" style="width: 18rem;">
+                    <div class="card-body">
+                        <div class="card border-0" style="height: 4rem;">
+                            <h5 class="card-title">Pack de 2 Botellas 3L Inca Kola</h5>
+                            <h6 class="card-subtitle text-light-emphasis">Bebidas</h6>
+                        </div>
+                        <hr />
+                        <center>
+                            <img src="Images\incakola.jpg" class="cardImages" /></center>
+                        <hr />
+                        <abbr title="DESCUENTO 20%"><p class="card-text ">Precio: S/.20.00</p></abbr>
+                        <p class="card-text">Estado: Disponible</p>
+                        <center>
+                            <div class="dropdown">
+                                <button class="btn buton-color fw-bold btn-info dropdown-toggle" type="button"
+                                    data-bs-toggle="dropdown" aria-expanded="false">
+                                    Ver en detalle</button>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item">Decripción: Paquete Tamaño Fiesta Papas Lays</a></li>
+                                    <li><a class="dropdown-item">Stock: 1000</a></li>
+                                </ul>
+                            </div>
+                        </center>
+                    </div>
+                </div>
+            </div>
+            <!--Producto2-->
+            <div class="tabla">
+                <div class="card cardProd" style="width: 18rem;">
+                    <div class="card-body">
+                        <div class="card border-0" style="height: 4rem;">
+                            <h5 class="card-title">Bolsa Grande de Papas Lay's</h5>
+                            <h6 class="card-subtitle text-light-emphasis">Snacks</h6>
+                        </div>
+                        <hr />
+                        <center>
+                            <img src="Images\papaslays.jpg" class="cardImages" /></center>
+                        <hr />
+                        <abbr title="DESCUENTO 20%">
+                            <p class="card-text ">Precio: S/.20.00</p>
+                        </abbr>
+                        <p class="card-text">Estado: Disponible</p>
+                        <center>
+                            <div class="dropdown">
+                                <button class="btn buton-color fw-bold btn-info dropdown-toggle" type="button"
+                                    data-bs-toggle="dropdown" aria-expanded="false">
+                                    Ver en detalle</button>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item">Decripción: Paquete Tamaño Fiesta Papas Lays</a></li>
+                                    <li><a class="dropdown-item">Stock: 1000</a></li>
+                                </ul>
+                            </div>
+                        </center>
+                    </div>
+                </div>
+            </div>
+            <!--Producto3-->
+            <div class="tabla">
+                <div class="card cardProd" style="width: 18rem;">
+                    <div class="card-body">
+                        <div class="card border-0" style="height: 4rem;">
+                            <h5 class="card-title">Bolsa Grande de Cheetos</h5>
+                            <h6 class="card-subtitle text-light-emphasis">Snacks</h6>
+                        </div>
+                        <hr />
+                        <center>
+                            <img src="Images\cheetos.jpg" class="cardImages" /></center>
+                        <hr />
+                        <abbr title="DESCUENTO 20%">
+                            <p class="card-text ">Precio: S/.20.00</p>
+                        </abbr>
+                        <p class="card-text">Estado: Disponible</p>
+                        <center>
+                            <div class="dropdown">
+                                <button class="btn buton-color fw-bold btn-info dropdown-toggle" type="button"
+                                    data-bs-toggle="dropdown" aria-expanded="false">
+                                    Ver en detalle</button>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item">Decripción: Paquete Tamaño Fiesta Papas Lays</a></li>
+                                    <li><a class="dropdown-item">Stock: 1000</a></li>
+                                </ul>
+                            </div>
+                        </center>
+                    </div>
+                </div>
+            </div>
+            <!--Prodcuto4-->
+            <div class="tabla">
+                <div class="card cardProd" style="width: 18rem;">
+                    <div class="card-body">
+                        <div class="card  border-0" style="height: 4rem;">
+                            <h5 class="card-title">3Pack Pepsi 7up CC Piña</h5>
+                            <h6 class="card-subtitle text-light-emphasis">Bebidas</h6>
+                        </div>
+                        <hr />
+                        <center>
+                            <img src="Images\tripack.jpg" class="cardImages" /></center>
+                        <hr />
+                        <abbr title="DESCUENTO 20%">
+                            <p class="card-text ">Precio: S/.20.00</p>
+                        </abbr>
+                        <p class="card-text">Estado: Disponible</p>
+                        <center>
+                            <div class="dropdown">
+                                <button class="btn buton-color fw-bold btn-info dropdown-toggle" type="button"
+                                    data-bs-toggle="dropdown" aria-expanded="false">
+                                    Ver en detalle</button>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item">Decripción: 3 Pack Pepsi 7up y CC Piñas de 3L</a></li>
+                                    <li><a class="dropdown-item">Stock: 1000</a></li>
+                                </ul>
+                            </div>
+                        </center>
+                    </div>
+                </div>
+            </div>
+            <!--Prodcuto5-->
+            <div class="tabla">
+                <div class="card cardProd" style="width: 18rem;">
+                    <div class="card-body">
+                        <div class="card  border-0" style="height: 4rem;">
+                            <h5 class="card-title">3Pack Pepsi 7up CC Piña</h5>
+                            <h6 class="card-subtitle text-light-emphasis">Bebidas</h6>
+                        </div>
+                        <hr />
+                        <center>
+                            <img src="Images\tripack.jpg" class="cardImages" /></center>
+                        <hr />
+                        <abbr title="DESCUENTO 20%">
+                            <p class="card-text ">Precio: S/.20.00</p>
+                        </abbr>
+                        <p class="card-text">Estado: Disponible</p>
+                        <center>
+                            <div class="dropdown">
+                                <button class="btn buton-color fw-bold btn-info dropdown-toggle" type="button"
+                                    data-bs-toggle="dropdown" aria-expanded="false">
+                                    Ver en detalle</button>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item">Decripción: 3 Pack Pepsi 7up y CC Piñas de 3L</a></li>
+                                    <li><a class="dropdown-item">Stock: 1000</a></li>
+                                </ul>
+                            </div>
+                        </center>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </center>
+    </asp:ContentPlaceHolder>
+
+    <asp:ContentPlaceHolder ID="aboutUs" runat="server">
+    </asp:ContentPlaceHolder>
+
+    </form>
+
+    <asp:ContentPlaceHolder ID="footer" runat="server">
+        <footer class="footer bg-light p-4 mt-5">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-6">
+                <h5>Información de Contacto</h5>
+                <p>Dirección: 123 Calle Principal, Ciudad</p>
+                <p>Teléfono: 123-456-7890</p>
+                <p>Email: ejemplo@correo.com</p>
+              </div>
+              <div class="col-lg-6">
+                <h5>Enlaces Útiles</h5>
+                <ul class="list-unstyled">
+                  <li><a href="#">Inicio</a></li>
+                  <li><a href="#">Acerca de Nosotros</a></li>
+                  <li><a href="#">Servicios</a></li>
+                  <li><a href="#">Contacto</a></li>
+                </ul>
+              </div>
+            </div>
+            <hr>
+            <div class="text-center">
+              <p>&copy; 2024 Mi Empresa</p>
+            </div>
+          </div>
+        </footer>
+    </asp:ContentPlaceHolder>
+    
+</body>
+</html>
