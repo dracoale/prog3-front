@@ -36,13 +36,13 @@
                 <div class="navbar-nav ms-auto">
                     <a href="#" class="nav-item nav-link ">
                         <asp:Button runat="server"
-                            CssClass="btn btn-light text " OnClick="handle_login" Text="Login"></asp:Button></a>
+                            CssClass="btn buton-color text " OnClick="handle_login" Text="Login"></asp:Button></a>
 
                 </div>
                 <div class="navbar-nav ">
                     <a href="#" class="nav-item nav-link ">
                         <asp:Button runat="server"
-                            CssClass="btn btn-light text " OnClick="handle_register" Text="Register"></asp:Button></a>
+                            CssClass="btn buton-color  text " OnClick="handle_register" Text="Register"></asp:Button></a>
 
                 </div>
 

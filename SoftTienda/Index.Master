@@ -69,7 +69,7 @@
            </div>        
            <div class="d-flex p-3">
                <asp:LinkButton  runat="server"  
-                  CssClass="btn btn-light " OnClick="handle_setting" Text ="Log out"><i class="fa-solid fa-gears"></i></asp:LinkButton>
+                  CssClass="btn btn-light " OnClick="handle_setting" Text =""><i class="fa-solid fa-gears"></i></asp:LinkButton>
            </div>
 
 

@@ -3,7 +3,31 @@
   "WorkspaceRootPath": "D:\\tienda_ta_p3\\front\\prog3-front\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\listarproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\index.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\index.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\index.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\index.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\editarproducto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\editarproducto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\styles\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\styles\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|d:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\listarproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\listarproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,11 +35,7 @@
       "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\listarproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|d:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\editarproducto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\editarproducto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|d:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -39,24 +59,8 @@
       "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\administrador.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\administrador.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\index.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\index.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\index.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\index.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\styles\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\styles\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\loginusuario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -69,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\registerusuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\registerusuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\listarclientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -90,11 +90,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "index.css",
               "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\Styles\\index.css",
               "RelativeDocumentMoniker": "SoftTienda\\Styles\\index.css",
@@ -103,11 +103,12 @@
               "ViewState": "AQIAAG8AAAAAAAAAAAAAAIUAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-05-26T02:23:59.873Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "EditarProducto.aspx.cs",
               "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\EditarProducto.aspx.cs",
               "RelativeDocumentMoniker": "SoftTienda\\EditarProducto.aspx.cs",
@@ -120,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "AboutUs.aspx",
               "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\AboutUs.aspx",
               "RelativeDocumentMoniker": "SoftTienda\\AboutUs.aspx",
@@ -128,12 +129,11 @@
               "RelativeToolTip": "SoftTienda\\AboutUs.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-27T13:14:05.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T13:14:05.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "ListaPedidos.aspx",
               "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\ListaPedidos.aspx",
               "RelativeDocumentMoniker": "SoftTienda\\ListaPedidos.aspx",
@@ -145,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "ListaPedidos.aspx.cs",
               "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\ListaPedidos.aspx.cs",
               "RelativeDocumentMoniker": "SoftTienda\\ListaPedidos.aspx.cs",
@@ -157,19 +157,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "Index.Master.cs",
               "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\Index.Master.cs",
               "RelativeDocumentMoniker": "SoftTienda\\Index.Master.cs",
               "ToolTip": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\Index.Master.cs",
               "RelativeToolTip": "SoftTienda\\Index.Master.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAIwDAAAAABAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwDAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T03:15:00.206Z"
+              "WhenOpened": "2024-05-27T03:15:00.206Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "LoginUsuario.aspx.cs",
               "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\LoginUsuario.aspx.cs",
               "RelativeDocumentMoniker": "SoftTienda\\LoginUsuario.aspx.cs",
@@ -181,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "LoginUsuario.aspx",
               "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\LoginUsuario.aspx",
               "RelativeDocumentMoniker": "SoftTienda\\LoginUsuario.aspx",
@@ -193,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "Index.Master",
               "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\Index.Master",
               "RelativeDocumentMoniker": "SoftTienda\\Index.Master",
@@ -206,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Homepage.aspx",
               "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\Homepage.aspx",
               "RelativeDocumentMoniker": "SoftTienda\\Homepage.aspx",
@@ -218,13 +219,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "ListarProductos.aspx.cs",
               "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\ListarProductos.aspx.cs",
               "RelativeDocumentMoniker": "SoftTienda\\ListarProductos.aspx.cs",
               "ToolTip": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\ListarProductos.aspx.cs",
               "RelativeToolTip": "SoftTienda\\ListarProductos.aspx.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAA5wDgAAAABAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwDgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T02:28:50.033Z",
               "EditorCaption": ""
@@ -243,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Homepage.aspx.cs",
               "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\Homepage.aspx.cs",
               "RelativeDocumentMoniker": "SoftTienda\\Homepage.aspx.cs",
@@ -255,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "Home.aspx",
               "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\Home.aspx",
               "RelativeDocumentMoniker": "SoftTienda\\Home.aspx",
@@ -263,11 +264,12 @@
               "RelativeToolTip": "SoftTienda\\Home.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-26T20:40:36.434Z"
+              "WhenOpened": "2024-05-26T20:40:36.434Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Perfil.aspx",
               "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\Perfil.aspx",
               "RelativeDocumentMoniker": "SoftTienda\\Perfil.aspx",
@@ -291,19 +293,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 1,
               "Title": "Home.aspx.cs",
               "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\Home.aspx.cs",
               "RelativeDocumentMoniker": "SoftTienda\\Home.aspx.cs",
               "ToolTip": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\Home.aspx.cs",
               "RelativeToolTip": "SoftTienda\\Home.aspx.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAgwCAAAAAAAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAA1wCAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T21:54:43.338Z"
+              "WhenOpened": "2024-05-26T21:54:43.338Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "ListarProductos.aspx",
               "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\ListarProductos.aspx",
               "RelativeDocumentMoniker": "SoftTienda\\ListarProductos.aspx",
@@ -311,12 +314,11 @@
               "RelativeToolTip": "SoftTienda\\ListarProductos.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-26T03:14:42.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T03:14:42.186Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Administrador.Master",
               "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\Administrador.Master",
               "RelativeDocumentMoniker": "SoftTienda\\Administrador.Master",
@@ -324,12 +326,11 @@
               "RelativeToolTip": "SoftTienda\\Administrador.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-26T02:18:17.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T02:18:17.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "RegisterUsuario.aspx",
               "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\RegisterUsuario.aspx",
               "RelativeDocumentMoniker": "SoftTienda\\RegisterUsuario.aspx",
