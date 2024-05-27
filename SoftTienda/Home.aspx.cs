@@ -29,5 +29,10 @@ namespace SoftTienda
         {
             Response.Redirect("LoginUsuario.aspx");
         }
+
+        protected void buscarProductoNombre(object sender, EventArgs e)
+        {
+
+        }
     }
 }

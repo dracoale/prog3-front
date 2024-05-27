@@ -1,0 +1,81 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Administrador.master.cs" Inherits="SoftTienda.Administrador" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <link href="fontawesome-web/css/all.min.css" rel="stylesheet" />
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+   <%-- <link href="Content/site.css" rel="stylesheet" />--%>
+  <%--  <link href="Content/Fonts/css/all.css" rel="stylesheet" />--%>
+
+    <script src="Scripts/bootstrap.js"></script>
+    <script src="Scripts/bootstrap.bundle.js"></script>
+    <script src="Scripts/jquery-3.7.1.js"></script>
+
+    <link href="Styles/index.css" rel="stylesheet" />
+    <title>
+        <asp:ContentPlaceHolder ID="cphTitulo" runat="server">
+        </asp:ContentPlaceHolder>
+    </title>
+</head>
+<body>
+    <asp:ContentPlaceHolder ID="cphScripts" runat="server">
+    </asp:ContentPlaceHolder>
+    <div class="container-fluid d-flex p-0 ">
+        <!--Menu Lateral-->
+        <div id="bdSidebar" class="d-flex flex-column flex-shrink-0 p-4 text  bg-color <%-- offcanvas-md offcanvas-start--%>">
+            <a href="HomePage.aspx" class="navbar-brand">
+                <img src="Images/logo1.png" width="160" />
+            </a>
+            <hr>
+            <ul class="mynav nav nav-pills flex-column mb-auto ">
+                <li class="nav-item mb-1 ">
+                    <a href="ListarProductos.aspx" >  <i class="fa-solid fa-cubes-stacked pe-2"></i>Productos</a>
+                </li>
+
+                <li class="nav-item mb-1">
+                    <a href="ListarClientes.aspx" ><i class="fa-solid fa-people-group pe-2"></i>Clientes</a>
+                </li>
+
+            </ul>
+            <hr>
+
+        </div>
+        <!-- Contenido Derecha -->
+        <div class="flex-fill overflow-auto ">
+            <!-- Barra superior para dispositivos pequeños -->
+            
+            <!-- Barra de Usuario -->
+            <nav class="navbar p-1">
+                <div class="container-fluid  text ">
+                    <a class="navbar-brand d-sm-none d-md-block d-none d-sm-block ">Administrador</a>
+                    <form class="d-flex">
+                        <div class="dropdown ps-3">
+                            <button class="btn dropdown-toggle text"
+                                id="btnUsuario" data-bs-toggle="dropdown" type="button"
+                                aria-expanded="false">
+                                <i class="fas fa-user me-2"></i>Juan Perez
+                            </button>
+                            <ul class="dropdown-menu" aria-labelledby="btnUsuario">
+                              <li><a class="dropdown-item" href="Perfil.aspx">Perfil</a></li>
+                              
+                              <li><a class="dropdown-item" href="Home.aspx">Cerrar Sesión</a></li>
+                            </ul>
+                        </div>
+                    </form>
+                </div>
+            </nav>
+            <!-- Contenido de la Página Web -->
+            <div class="p-4">
+                <form runat="server">
+                    <asp:ContentPlaceHolder ID="cphContenido" runat="server" >
+                    </asp:ContentPlaceHolder>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

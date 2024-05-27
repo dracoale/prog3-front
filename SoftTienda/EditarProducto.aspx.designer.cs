@@ -11,7 +11,7 @@ namespace SoftTienda
 {
 
 
-    public partial class AgregarProducto
+    public partial class EditarProducto
     {
 
         /// <summary>
@@ -51,6 +51,15 @@ namespace SoftTienda
         protected global::System.Web.UI.WebControls.Label lblDesc;
 
         /// <summary>
+        /// Control lblOferta.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblOferta;
+
+        /// <summary>
         /// Control lblEstado.
         /// </summary>
         /// <remarks>
@@ -67,5 +76,23 @@ namespace SoftTienda
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label lblTipo;
+
+        /// <summary>
+        /// Control lblImagen.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblImagen;
+
+        /// <summary>
+        /// Control fuImagen.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.FileUpload fuImagen;
     }
 }

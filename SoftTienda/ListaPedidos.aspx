@@ -144,3 +144,6 @@
        </div>
    </div>
 </asp:Content>
+<asp:Content ID="Content7" ContentPlaceHolderID="listaProductos" runat="server">
+
+</asp:Content>

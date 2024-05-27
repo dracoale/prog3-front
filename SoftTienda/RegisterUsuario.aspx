@@ -10,6 +10,7 @@
 
 <asp:Content ID="Content4" ContentPlaceHolderID="footer" runat="server">
 </asp:Content>
+
 <asp:Content ID="Content5" ContentPlaceHolderID="registerUsuario" runat="server">
  <div class="container mt-4">
             <div class="row justify-content-center">
@@ -52,18 +53,26 @@
                                     <input type="text" class="form-control" id="regisApellidoMUsuario" required="">
                                 </div>
                             </div>
+                                        <div class="mb-3 ">
+                <asp:Label ID="lblGenero" runat="server" Text="Genero:" CssClass="col-sm-2 col-form-label" />
+                <div class="col-sm-8">
+                    <div class="form-check form-check-inline">
+                        <input class="form-check-input" type="radio" id="rbMasculino" runat="server" value="M">
+                        <label class="form-check-label" for="rbMasculino" runat="server">Masculino</label>
+                    </div>
+                    <div class="form-check form-check-inline">
+                        <input class="form-check-input" type="radio" id="rbFemenino" runat="server" value="F">
+                        <label class="form-check-label" for="rbFemenino" runat="server">Femenino</label>
+                    </div>
+                </div>
+            </div>
                             <div class="mb-3">
                                 <asp:Label ID="lblTelefono" runat="server" Text="Telefono"></asp:Label>
                                 <div>
                                     <input type="text" class="form-control" id="registrarTelefonoUsuario" required="">
                                 </div>
                             </div>
-                            <div class="mb-3">
-                                <asp:Label ID="lblUsuario" runat="server" Text="Nombre Usuario"></asp:Label>
-                                <div>
-                                    <input type="text" class="form-control" id="registrarUsuarioUsuario" required="">
-                                </div>
-                            </div>
+
                             <div class="mb-3">
                                 <asp:Label ID="lblCorreo" runat="server" Text="Correo"></asp:Label>
                                 <div>
@@ -83,17 +92,36 @@
                                     <input type="password" class="form-control" id="regisConfirmContraUsuario" required="">
                                 </div>
                             </div>
-                            <div class="mb-3">
-                                <div class="mb-4 d-flex align-items-center justify-content-between">
-                                    <div class="form-check">
-                                       <input class="form-check-input" type="checkbox" id="signupCheckTextCheckbox">
-                                       <label class="form-check-label ms-2" for="signupCheckTextCheckbox">
-                                          <a href="#">Terminos y Condiciones</a>
-                                       </label>
-                                    </div>
-                                 </div>
+                            <div class="mb-3 ">
+                                <asp:Label ID="lblFechaNacimiento" runat="server" Text="Fecha Nacimiento:" CssClass="col-sm-2 col-form-label" />
+                                <div class="col-sm-8">
+                                    <input class="form-control" type="date" id="dtpFechaNacimiento" runat="server">
+                                </div>
                             </div>
-                            <div class="d-grid">
+
+                            <div class="mb-3 ">
+                                <asp:Label ID="lblCategoria" runat="server" Text="Categoria:" CssClass="col-sm-2 col-form-label" />
+                                <div class="col-sm-8">
+                                    <div class="form-check form-check-inline">
+                                        <input class="form-check-input" type="radio" id="rbNatural" runat="server" value="USER_NATURAL">
+                                        <label class="form-check-label" for="rbNatural" runat="server">Natural</label>
+                                    </div>
+                                    <div class="form-check form-check-inline">
+                                        <input class="form-check-input" type="radio" id="rbJuridico" runat="server" value="USER_JURIDICO">
+                                        <label class="form-check-label" for="rbJuridico" runat="server">Juridico</label>
+                                    </div>
+                                </div>
+                                <div class="mb-3">
+                                    <div class="mb-4 d-flex align-items-center justify-content-between">
+                                        <div class="form-check">
+                                            <input class="form-check-input" type="checkbox" id="signupCheckTextCheckbox">
+                                            <label class="form-check-label ms-2" for="signupCheckTextCheckbox">
+                                                <a href="#">Terminos y Condiciones</a>
+                                            </label>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="d-grid">
                                 <asp:Button  runat="server" CssClass="btn btn-primary" OnClick="handle_login" Text ="Registrar"></asp:Button>
                             </div>
                         </div>
@@ -108,5 +136,9 @@
 </div>
 </asp:Content>
 <asp:Content ID="Content6" ContentPlaceHolderID="loginUsuiario" runat="server">
+
+</asp:Content>
+
+<asp:Content ID="Content7" ContentPlaceHolderID="listaProductos" runat="server">
 
 </asp:Content>

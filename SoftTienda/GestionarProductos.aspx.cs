@@ -7,16 +7,20 @@ using System.Web.UI.WebControls;
 
 namespace SoftTienda
 {
-    public partial class AgregarProducto : System.Web.UI.Page
+    public partial class GestionarProductos : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
 
         }
+        protected void btnGuardar_Click(object sender, EventArgs e)
+        {
+  
+        }
 
         protected void handle_registro(object sender, EventArgs e)
         {
-            Response.Redirect("Homepage.aspx");
+            //Response.Redirect("Home.aspx");
         }
     }
 }

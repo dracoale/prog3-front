@@ -68,3 +68,6 @@
 </asp:Content>
 <asp:Content ID="Content6" ContentPlaceHolderID="footer" runat="server">
 </asp:Content>
+<asp:Content ID="Content7" ContentPlaceHolderID="listaProductos" runat="server">
+
+</asp:Content>

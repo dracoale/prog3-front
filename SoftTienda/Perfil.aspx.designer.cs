@@ -11,7 +11,7 @@ namespace SoftTienda
 {
 
 
-    public partial class Homepage
+    public partial class Perfil
     {
     }
 }

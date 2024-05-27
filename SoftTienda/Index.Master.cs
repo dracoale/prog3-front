@@ -43,13 +43,19 @@ namespace SoftTienda
         protected void handle_Logout(object sender, EventArgs e)
         {
             Response.Redirect("Home.aspx");
+        }  protected void handle_setting(object sender, EventArgs e)
+        {
+            Response.Redirect("Perfil.aspx");
         }
 
         protected void handle_Products(object sender, EventArgs e)
         {
             Response.Redirect("AgregarProducto.aspx");
         }
+        protected void buscarProductoNombre(object sender, EventArgs e)
+        {
 
-        
+        }
+
     }
 }
