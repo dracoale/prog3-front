@@ -78,6 +78,7 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
+    <Content Include="EditarProducto.aspx" />
     <Content Include="GestionarProductos.aspx" />
     <Content Include="Homepage.aspx" />
     <Content Include="Images\logo.svg" />
@@ -118,6 +119,13 @@
     </Compile>
     <Compile Include="Administrador.Master.designer.cs">
       <DependentUpon>Administrador.Master</DependentUpon>
+    </Compile>
+    <Compile Include="EditarProducto.aspx.cs">
+      <DependentUpon>EditarProducto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditarProducto.aspx.designer.cs">
+      <DependentUpon>EditarProducto.aspx</DependentUpon>
     </Compile>
     <Compile Include="GestionarProductos.aspx.cs">
       <DependentUpon>GestionarProductos.aspx</DependentUpon>

@@ -1,81 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\",
+  "WorkspaceRootPath": "D:\\tienda_ta_p3\\front\\prog3-front\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|c:\\users\\user\\downloads\\proyecto_interfaz_grafica_laboratorio08\\proyecto_interfaz_grafica_laboratorio08\\softtienda\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\softtienda\\perfil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\perfil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|c:\\users\\user\\downloads\\proyecto_interfaz_grafica_laboratorio08\\proyecto_interfaz_grafica_laboratorio08\\softtienda\\listapedidos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\listapedidos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|c:\\users\\user\\downloads\\proyecto_interfaz_grafica_laboratorio08\\proyecto_interfaz_grafica_laboratorio08\\softtienda\\listapedidos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\listapedidos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\softtienda\\loginusuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\loginusuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\softtienda\\listarproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\listarproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\listarproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\softtienda\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\softtienda\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|c:\\users\\user\\downloads\\proyecto_interfaz_grafica_laboratorio08\\proyecto_interfaz_grafica_laboratorio08\\softtienda\\administrador.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\administrador.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\softtienda\\index.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\index.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\softtienda\\index.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\index.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\softtienda\\styles\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\styles\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\softtienda\\loginusuario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\loginusuario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\softtienda\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\softtienda\\registerusuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\registerusuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\softtienda\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\softtienda\\listarproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\listarproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\listarproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\softtienda\\listarclientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|d:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\editarproducto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\editarproducto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|d:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\perfil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\perfil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\listapedidos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\listapedidos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\listapedidos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\listapedidos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\loginusuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\loginusuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\administrador.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\administrador.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\index.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\index.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\index.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\index.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\styles\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\styles\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\loginusuario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\loginusuario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\registerusuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\registerusuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\listarclientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\listarclientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\softtienda\\registerusuario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|D:\\tienda_ta_p3\\front\\prog3-front\\softtienda\\registerusuario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3831E2AF-EAB9-468B-9018-295E194EFCD0}|SoftTienda\\SoftTienda.csproj|solutionrelative:softtienda\\registerusuario.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -86,15 +90,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "index.css",
-              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\Styles\\index.css",
+              "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\Styles\\index.css",
               "RelativeDocumentMoniker": "SoftTienda\\Styles\\index.css",
-              "ToolTip": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\Styles\\index.css",
+              "ToolTip": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\Styles\\index.css",
               "RelativeToolTip": "SoftTienda\\Styles\\index.css",
               "ViewState": "AQIAAG8AAAAAAAAAAAAAAIUAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -103,11 +107,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "EditarProducto.aspx.cs",
+              "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\EditarProducto.aspx.cs",
+              "RelativeDocumentMoniker": "SoftTienda\\EditarProducto.aspx.cs",
+              "ToolTip": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\EditarProducto.aspx.cs",
+              "RelativeToolTip": "SoftTienda\\EditarProducto.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:08:28.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AboutUs.aspx",
-              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\AboutUs.aspx",
+              "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\AboutUs.aspx",
               "RelativeDocumentMoniker": "SoftTienda\\AboutUs.aspx",
-              "ToolTip": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\AboutUs.aspx",
+              "ToolTip": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\AboutUs.aspx",
               "RelativeToolTip": "SoftTienda\\AboutUs.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -116,37 +133,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ListaPedidos.aspx",
-              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\ListaPedidos.aspx",
+              "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\ListaPedidos.aspx",
               "RelativeDocumentMoniker": "SoftTienda\\ListaPedidos.aspx",
-              "ToolTip": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\ListaPedidos.aspx",
+              "ToolTip": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\ListaPedidos.aspx",
               "RelativeToolTip": "SoftTienda\\ListaPedidos.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-27T13:11:00.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T13:11:00.994Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ListaPedidos.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\ListaPedidos.aspx.cs",
+              "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\ListaPedidos.aspx.cs",
               "RelativeDocumentMoniker": "SoftTienda\\ListaPedidos.aspx.cs",
-              "ToolTip": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\ListaPedidos.aspx.cs",
+              "ToolTip": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\ListaPedidos.aspx.cs",
               "RelativeToolTip": "SoftTienda\\ListaPedidos.aspx.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T13:10:58.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T13:10:58.642Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Index.Master.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\Index.Master.cs",
+              "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\Index.Master.cs",
               "RelativeDocumentMoniker": "SoftTienda\\Index.Master.cs",
-              "ToolTip": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\Index.Master.cs",
+              "ToolTip": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\Index.Master.cs",
               "RelativeToolTip": "SoftTienda\\Index.Master.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAIwDAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -154,11 +169,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "LoginUsuario.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\LoginUsuario.aspx.cs",
+              "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\LoginUsuario.aspx.cs",
               "RelativeDocumentMoniker": "SoftTienda\\LoginUsuario.aspx.cs",
-              "ToolTip": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\LoginUsuario.aspx.cs",
+              "ToolTip": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\LoginUsuario.aspx.cs",
               "RelativeToolTip": "SoftTienda\\LoginUsuario.aspx.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -166,24 +181,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "LoginUsuario.aspx",
-              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\LoginUsuario.aspx",
+              "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\LoginUsuario.aspx",
               "RelativeDocumentMoniker": "SoftTienda\\LoginUsuario.aspx",
-              "ToolTip": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\LoginUsuario.aspx",
+              "ToolTip": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\LoginUsuario.aspx",
               "RelativeToolTip": "SoftTienda\\LoginUsuario.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-27T02:59:12.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T02:59:12.741Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Index.Master",
-              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\Index.Master",
+              "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\Index.Master",
               "RelativeDocumentMoniker": "SoftTienda\\Index.Master",
-              "ToolTip": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\Index.Master",
+              "ToolTip": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\Index.Master",
               "RelativeToolTip": "SoftTienda\\Index.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -192,11 +206,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Homepage.aspx",
-              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\Homepage.aspx",
+              "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\Homepage.aspx",
               "RelativeDocumentMoniker": "SoftTienda\\Homepage.aspx",
-              "ToolTip": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\Homepage.aspx",
+              "ToolTip": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\Homepage.aspx",
               "RelativeToolTip": "SoftTienda\\Homepage.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -204,24 +218,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "ListarProductos.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\ListarProductos.aspx.cs",
+              "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\ListarProductos.aspx.cs",
               "RelativeDocumentMoniker": "SoftTienda\\ListarProductos.aspx.cs",
-              "ToolTip": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\ListarProductos.aspx.cs",
+              "ToolTip": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\ListarProductos.aspx.cs",
               "RelativeToolTip": "SoftTienda\\ListarProductos.aspx.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAATAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAA5wDgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T02:28:50.033Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "RegisterUsuario.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\RegisterUsuario.aspx.cs",
+              "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\RegisterUsuario.aspx.cs",
               "RelativeDocumentMoniker": "SoftTienda\\RegisterUsuario.aspx.cs",
-              "ToolTip": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\RegisterUsuario.aspx.cs",
+              "ToolTip": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\RegisterUsuario.aspx.cs",
               "RelativeToolTip": "SoftTienda\\RegisterUsuario.aspx.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAgwBUAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -229,50 +243,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Homepage.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\Homepage.aspx.cs",
+              "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\Homepage.aspx.cs",
               "RelativeDocumentMoniker": "SoftTienda\\Homepage.aspx.cs",
-              "ToolTip": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\Homepage.aspx.cs",
+              "ToolTip": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\Homepage.aspx.cs",
               "RelativeToolTip": "SoftTienda\\Homepage.aspx.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T21:57:21.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T21:57:21.537Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Home.aspx",
-              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\Home.aspx",
+              "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\Home.aspx",
               "RelativeDocumentMoniker": "SoftTienda\\Home.aspx",
-              "ToolTip": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\Home.aspx",
+              "ToolTip": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\Home.aspx",
               "RelativeToolTip": "SoftTienda\\Home.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-26T20:40:36.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T20:40:36.434Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Perfil.aspx",
-              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\Perfil.aspx",
+              "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\Perfil.aspx",
               "RelativeDocumentMoniker": "SoftTienda\\Perfil.aspx",
-              "ToolTip": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\Perfil.aspx",
+              "ToolTip": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\Perfil.aspx",
               "RelativeToolTip": "SoftTienda\\Perfil.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-26T20:12:57.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T20:12:57.254Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ListarClientes.aspx",
-              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\ListarClientes.aspx",
+              "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\ListarClientes.aspx",
               "RelativeDocumentMoniker": "SoftTienda\\ListarClientes.aspx",
-              "ToolTip": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\ListarClientes.aspx",
+              "ToolTip": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\ListarClientes.aspx",
               "RelativeToolTip": "SoftTienda\\ListarClientes.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -280,11 +291,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Home.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\Home.aspx.cs",
+              "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\Home.aspx.cs",
               "RelativeDocumentMoniker": "SoftTienda\\Home.aspx.cs",
-              "ToolTip": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\Home.aspx.cs",
+              "ToolTip": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\Home.aspx.cs",
               "RelativeToolTip": "SoftTienda\\Home.aspx.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAgwCAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -292,23 +303,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 1,
               "Title": "ListarProductos.aspx",
-              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\ListarProductos.aspx",
+              "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\ListarProductos.aspx",
               "RelativeDocumentMoniker": "SoftTienda\\ListarProductos.aspx",
-              "ToolTip": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\ListarProductos.aspx",
+              "ToolTip": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\ListarProductos.aspx",
               "RelativeToolTip": "SoftTienda\\ListarProductos.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-26T03:14:42.186Z"
+              "WhenOpened": "2024-05-26T03:14:42.186Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Administrador.Master",
-              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\Administrador.Master",
+              "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\Administrador.Master",
               "RelativeDocumentMoniker": "SoftTienda\\Administrador.Master",
-              "ToolTip": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\Administrador.Master",
+              "ToolTip": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\Administrador.Master",
               "RelativeToolTip": "SoftTienda\\Administrador.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -317,11 +329,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "RegisterUsuario.aspx",
-              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\RegisterUsuario.aspx",
+              "DocumentMoniker": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\RegisterUsuario.aspx",
               "RelativeDocumentMoniker": "SoftTienda\\RegisterUsuario.aspx",
-              "ToolTip": "C:\\Users\\USER\\Downloads\\Proyecto_Interfaz_grafica_Laboratorio08\\Proyecto_Interfaz_grafica_Laboratorio08\\SoftTienda\\RegisterUsuario.aspx",
+              "ToolTip": "D:\\tienda_ta_p3\\front\\prog3-front\\SoftTienda\\RegisterUsuario.aspx",
               "RelativeToolTip": "SoftTienda\\RegisterUsuario.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",

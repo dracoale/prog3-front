@@ -35,8 +35,8 @@
 
                 <asp:TemplateField>
                     <itemtemplate>
-                        <asp:LinkButton runat="server" Text="<i class='fa-solid fa-edit ps-2'></i>"  />
-                        <asp:LinkButton runat="server" Text="<i class='fa-solid fa-trash ps-2'></i>"   />
+                        <asp:LinkButton runat="server" Text="<i class='fa-solid fa-edit ps-2'></i>"   OnClick="lbEditarProducto_Click"/>
+                        <asp:LinkButton runat="server" Text="<i class='fa-solid fa-trash ps-2'></i>" OnClick="lbEliminarProducto_Click"   />
                     </itemtemplate>
                 </asp:TemplateField>
             </columns>

@@ -11,7 +11,7 @@ namespace SoftTienda
 {
 
 
-    public partial class GestionarProductos
+    public partial class EditarProducto
     {
 
         /// <summary>

@@ -1,18 +1,15 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Administrador.Master" AutoEventWireup="true" CodeBehind="GestionarProductos.aspx.cs" Inherits="SoftTienda.GestionarProductos" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Administrador.Master" AutoEventWireup="true" CodeBehind="EditarProducto.aspx.cs" Inherits="SoftTienda.EditarProducto" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="cphTitulo" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="cphScripts" runat="server">
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="cphContenido" runat="server">
-
      <div class="container mt-2">
             <div class="row justify-content-center">
                 
                     <div class="text-center">
-                        <h1 class="mb-1">Registro de Producto</h1>
-                        <p class="mb-0">
-                            Introduzca los datos del producto.
-                        </p>
+                        <h1 class="mb-1">Editar Producto</h1>
+                     
                     </div>
                 </div>
             
@@ -102,8 +99,5 @@
 
         </div>
 
-                
-
-
-
+               
 </asp:Content>

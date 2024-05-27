@@ -45,5 +45,13 @@ namespace SoftTienda
         {
             Response.Redirect("GestionarProductos.aspx");
         }
+        protected void lbEditarProducto_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("EditarProducto.aspx");
+        }
+        protected void lbEliminarProducto_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("ListarProductos.aspx");
+        }
     }
 }
